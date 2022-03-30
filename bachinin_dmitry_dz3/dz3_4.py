@@ -4,7 +4,7 @@ def thesaurus_adv(*name_list):
 
     name_dict = {}
     for name in name_list:
-        key_name = name[0]
+        key_name = name[0].upper()
         key_surname = name.split(" ")[1][0]
         if key_surname in name_dict:
             if key_name in name_dict[key_surname]:
