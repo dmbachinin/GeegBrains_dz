@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5395d842-e348-43b2-86aa-9ee50ec05c03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/add_sale.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bakery.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/change_sale.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz6_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz6_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz6_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hobby.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result_dict.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/show_sales.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users_hobby.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GeegBrains_dz" beforeDir="false" afterPath="$PROJECT_DIR$/../GeegBrains_dz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.change_sale">
+  <component name="RunManager" selected="Python.dz6_3">
     <configuration name="add_sale" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bachinin_dmitry_dz6" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,17 +78,17 @@
       <method v="2" />
     </configuration>
     <configuration name="dz6_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="bachinin_dmitry_dz6" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\User\PycharmProjects\pythonProject1\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dz6_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -111,17 +99,17 @@
       <method v="2" />
     </configuration>
     <configuration name="dz6_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="bachinin_dmitry_dz6" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\User\PycharmProjects\pythonProject1\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dz6_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -175,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dz6_3" />
+        <item itemvalue="Python.dz6_1" />
         <item itemvalue="Python.change_sale" />
         <item itemvalue="Python.show_sales" />
         <item itemvalue="Python.add_sale" />
-        <item itemvalue="Python.dz6_3" />
-        <item itemvalue="Python.dz6_1" />
       </list>
     </recent_temporary>
   </component>
